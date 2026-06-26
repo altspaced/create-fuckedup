@@ -47,8 +47,9 @@ Five Maven repos are required:
   - Forge Config API Port (`fuzs.forgeconfigapiport:forgeconfigapiport-fabric`)
 - `https://maven.jamieswhiteshirt.com/libs-release`
   - Reach Entity Attributes (`com.jamieswhiteshirt:reach-entity-attributes`)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------
-    1.21.1 Fork of Create Fabric
 
 All you need dependency-wise is a dependency on `com.simibubi.create:create-fabric:<version>`. Everything else will be pulled in transitively.
 Check [Modrinth](https://modrinth.com/mod/create-fabric/versions) to find the right version number.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1.21.1 Fork of Create Fabric
